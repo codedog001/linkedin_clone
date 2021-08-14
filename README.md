@@ -6,6 +6,6 @@ LinkedIn Clone created with React.JS.
 
 
 ## Preview
-[View Demo](https://spotify-clone-react-seven.vercel.app/)
+[View Demo](https://thotbit-88ab9.web.app/)
 
 
