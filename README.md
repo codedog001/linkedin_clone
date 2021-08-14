@@ -1,14 +1,11 @@
-# # Disney Plus Clone Readme
+# LinkedIn Clone
 
-## <a href='https://linkedin-clone-b9f2a.web.app' target='_blank'>LIVE DEMO</a>
+LinkedIn Clone created with React.JS.
 
-## Description
-This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio by Clever Programmer.
+![linkedin](https://user-images.githubusercontent.com/70198503/162997201-7b57a756-6fab-4bdc-b815-00027344188e.png)
 
-## Build it today!
 
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a> (Select the LTS option)
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/1czlG0rnLWJgNLhlU-tN6OVyB6xu1r5UU?usp=sharing'>HERE</a>
-- Watch full tutorial <a href='https://youtu.be/xP3cxbDUtrc'>HERE</a>
+## Preview
+[View Demo](https://spotify-clone-react-seven.vercel.app/)
+
+
